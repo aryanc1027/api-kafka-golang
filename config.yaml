@@ -1,0 +1,4 @@
+server_address: ":8080"
+kafka_hosts: 
+  - "localhost:9092"
+api_key: "your-development-api-key"
