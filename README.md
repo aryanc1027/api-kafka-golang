@@ -15,9 +15,6 @@
 12. [Rate Limiting](#rate-limiting)
 13. [Error Handling](#error-handling)
 14. [Scalability and Performance](#scalability-and-performance)
-15. [Contributing](#contributing)
-16. [License](#license)
-17. [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
